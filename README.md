@@ -58,8 +58,10 @@ Before running the project, ensure you have the following installed:
    git clone https://github.com/khpcoding/Distributed-Tracing-with-Jaeger-and-Go.git
    cd Distributed-Tracing-with-Jaeger-and-Go
    ```
+---
 
-   ## This will start the following services:
+## This will start the following services:
+
   - Jaeger (UI at http://localhost:16686)
 
   - Elasticsearch (for trace storage)
