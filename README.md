@@ -70,3 +70,37 @@ Before running the project, ensure you have the following installed:
 
   - Service A, Service B, and Service C.
 
+---
+## Running the Project
+
+Once the services are up and running, you can interact with them as follows:
+
+1- Service A is available at http://localhost:8080/service-a.
+
+2- Service B is available at http://localhost:8081/service-b.
+
+3- Service C is available at http://localhost:8082/service-c.
+
+To trigger a trace, simply make a request to Service A:
+
+```bash
+curl http://localhost:8080/service-a
+```
+This will initiate a chain of requests:
+
+Service A → Service B → Service C.
+
+---
+
+Viewing Traces in Jaeger UI
+
+1- Open the Jaeger UI in your browser:
+
+```bash
+http://localhost:16686
+```
+2- Search for traces by selecting the service name (serviceA, serviceB, or serviceC) and clicking Find Traces.
+
+3- You can visualize the entire request flow, including the time taken by each service and the relationships between them.
+
+
