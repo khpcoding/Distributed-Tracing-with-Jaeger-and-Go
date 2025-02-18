@@ -59,7 +59,7 @@ Before running the project, ensure you have the following installed:
    cd Distributed-Tracing-with-Jaeger-and-Go
    ```
 
-   # This will start the following services:
+   ## This will start the following services:
   - Jaeger (UI at http://localhost:16686)
 
   - Elasticsearch (for trace storage)
