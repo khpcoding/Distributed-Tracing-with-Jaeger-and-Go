@@ -26,7 +26,8 @@ This project simulates a microservices environment where:
 The project also includes a **Docker Compose** setup to run Jaeger, Elasticsearch, and Kibana for trace storage and visualization.
 
 
-![0bg5rv2wptxt](https://github.com/user-attachments/assets/987c1c3d-2532-4aaf-a6e0-a299f78b5aa8)
+![jaeger](https://github.com/user-attachments/assets/c7c4091c-6e1b-4497-9554-30f460441dfb)
+
 
 
 
