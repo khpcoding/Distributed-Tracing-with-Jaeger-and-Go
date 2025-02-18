@@ -110,3 +110,6 @@ http://localhost:16686
 
 ![image](https://github.com/user-attachments/assets/82f388e5-2294-44de-a0f0-c6c5c4928519)
 
+
+![image](https://github.com/user-attachments/assets/ff7ac7d3-8206-4a85-b26e-fea768e74270)
+
