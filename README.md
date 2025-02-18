@@ -107,4 +107,5 @@ http://localhost:16686
 
 3- You can visualize the entire request flow, including the time taken by each service and the relationships between them.
 
+![image](https://github.com/user-attachments/assets/82f388e5-2294-44de-a0f0-c6c5c4928519)
 
