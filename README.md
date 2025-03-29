@@ -11,7 +11,7 @@ This project demonstrates distributed tracing in a microservices architecture us
 5. [Running the Project](#running-the-project)
 6. [Viewing Traces in Jaeger UI](#viewing-traces-in-jaeger-ui)
 7. [Project Structure](#project-structure)
-8. [License](#license)
+
 
 ---
 
